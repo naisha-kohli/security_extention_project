@@ -155,7 +155,6 @@ secure_surf/
 └── .gitignore
 ```
 
-> **Note:** This repository also contains a few backend files (`scanController.js`, `riskAggregator.js`, and files under `middleware/`) written against an alternate `services/`/`config/`/`utils/` folder layout that isn't present in this project. They currently aren't imported by `Server.js` and represent an earlier structuring pass. They're safe to ignore, consolidate, or remove — flagging here rather than silently deleting them, since that's a decision for the project owner.
 
 ## Installation Guide
 
@@ -212,7 +211,7 @@ URLhaus and WHOIS/RDAP require no API key and are always active as long as the b
 
 ## Screenshots
 
-> _Add screenshots of the popup UI (Home / History / Settings tabs) and a sample scan result here._
+History & settings tab:-
 > <img width="379" height="593" alt="image" src="https://github.com/user-attachments/assets/3caa3129-24f5-4864-b186-35398c75ba39" />
 <img width="390" height="586" alt="image" src="https://github.com/user-attachments/assets/66e0155a-8677-4625-84a4-b50900d801d1" />
 
