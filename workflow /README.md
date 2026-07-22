@@ -220,10 +220,7 @@ URLhaus and WHOIS/RDAP require no API key and are always active as long as the b
 
 | Popup — Home | Popup — Scan Result | Downloaded Report |
 |---|---|---|
-|<img width="388" height="598" alt="image" src="https://github.com/user-attachments/assets/572316a4-554e-4b26-9dfc-2eac6e28b10b" />
-
- |<img width="386" height="589" alt="image" src="https://github.com/user-attachments/assets/087a69b9-2ad9-41fd-97bf-5a33fcb29529" />>
- |<img width="397" height="583" alt="image" src="https://github.com/user-attachments/assets/d1d75802-c0d6-420b-b9ac-4c998596cb70" />>
+| <img width="388" alt="Popup Home" src="https://github.com/user-attachments/assets/572316a4-554e-4b26-9dfc-2eac6e28b10b" /> | <img width="386" alt="Scan Result" src="https://github.com/user-attachments/assets/087a69b9-2ad9-41fd-97bf-5a33fcb29529" /> | <img width="397" alt="Downloaded Report" src="https://github.com/user-attachments/assets/d1d75802-c0d6-420b-b9ac-4c998596cb70" /> |
 
 
 ## Future Improvements
